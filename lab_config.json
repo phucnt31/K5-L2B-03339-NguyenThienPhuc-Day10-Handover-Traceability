@@ -1,8 +1,14 @@
 {
-  "mshv": "",
-  "ho_ten": "",
+  "mshv": "2A202603339",
+  "ho_ten": "Nguyen Thien Phuc",
   "track": "B",
   "batch_id": "lo_000_v1",
   "submitter_code": "S00",
-  "classes": ["car", "truck", "van", "motorcycle", "person"]
+  "classes": [
+    "car",
+    "truck",
+    "van",
+    "motorcycle",
+    "person"
+  ]
 }
